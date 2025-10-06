@@ -1,0 +1,14 @@
+algorithm,input_type,n,time_ns,comparisons,swaps
+MaxHeap,random,1000,1724100,16899,8100
+MaxHeap,random,100,772900,1027,478
+MaxHeap,random,1000,1779500,16869,8086
+MaxHeap,random,10000,3972900,235300,114155
+MaxHeap,sorted,100,725100,1081,541
+MaxHeap,sorted,1000,1499800,17583,8709
+MaxHeap,sorted,10000,3770100,244460,121957
+MaxHeap,reversed,100,697600,944,417
+MaxHeap,reversed,1000,1483900,15965,7317
+MaxHeap,reversed,10000,3675300,226682,106697
+MaxHeap,nearly-sorted,100,741800,1077,536
+MaxHeap,nearly-sorted,1000,1504800,17462,8641
+MaxHeap,nearly-sorted,10000,3820900,243496,120839
